@@ -2,19 +2,12 @@
 
 # Ce script installe mes extensions VS Code sous Linux
 
-# ----------
-# Commande
-# ----------
-
 # Pour donner les droits d'exécution : 
     # chmod +x extensionVsCodeLinux.sh 
-
 # Pour exécuter le script : 
     # ./extensionVsCodeLinux.sh 
-    
 # Pour vérifier que VS Code CLI fonctionne : 
     # code --version 
-
 # Pour voir les extensions déjà installées : 
     # code --list-extensions
 

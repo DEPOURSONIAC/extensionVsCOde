@@ -43,4 +43,3 @@ do
 done
 
 echo "Programme terminé."
-```
